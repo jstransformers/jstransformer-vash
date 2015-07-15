@@ -16,7 +16,7 @@
 ```js
 var vash = require('jstransformer')(require('jstransformer-vash'))
 
-vash.render('Hello, @model.name!').body
+vash.render('Hello, @model.name!', { name: 'World' }).body
 //=> 'Hello, World!'
 ```
 
