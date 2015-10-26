@@ -2,6 +2,9 @@
   "name": "jstransformer-vash",
   "version": "0.0.1",
   "description": "Vash support for JSTransformers.",
+  "dependencies": {
+    "vash": "^0.9.3"
+  },
   "keywords": [
     "jstransformer"
   ],
@@ -12,19 +15,19 @@
     "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "test-jstransformer",
-    "coverage": "test-jstransformer coverage"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-vash.git"
+    "url": "https://github.com/jstransformers/jstransformer-foo.git"
   },
   "author": {
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "vash": "^0.9.3"
-  }
+  "license": "MIT"
 }
