@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-vash",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vash support for JSTransformers.",
   "dependencies": {
     "vash": "^0.11.0"
