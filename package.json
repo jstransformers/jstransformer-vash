@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Vash support for JSTransformers.",
   "dependencies": {
-    "vash": "^0.11.0"
+    "vash": "^0.12.0"
   },
   "keywords": [
     "jstransformer"
