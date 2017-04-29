@@ -1,5 +1,7 @@
 # jstransformer-vash
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-vash.svg)](https://greenkeeper.io/)
+
 [Vash](http://github.com/kirbysayshi/vash) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-vash/master.svg)](https://travis-ci.org/jstransformers/jstransformer-vash)
