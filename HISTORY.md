@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.0: 2017-06-11
+
+- Updated to `vash@^0.12.2`
+
 ## v0.1.1: 2015-11-09
 
 - Updated to `vash@^0.11.0`
