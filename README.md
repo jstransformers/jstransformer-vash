@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var vash = require('jstransformer')(require('jstransformer-vash'));
+var vash = require('jstransformer')(require('jstransformer-vash'))
 
 vash.render('Hello, @model.name!', { name: 'World' }).body
 //=> 'Hello, World!'
