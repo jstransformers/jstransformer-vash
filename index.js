@@ -1,6 +1,6 @@
 'use strict'
 
-var vash = require('vash')
+const vash = require('vash')
 
 exports.name = 'vash'
 exports.outputFormat = 'html'
